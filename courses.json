@@ -1,0 +1,18 @@
+[
+    {"id": 1, "name": "Английский для начинающих", "duration": "3 месяца", "price": 15000},
+    {"id": 2, "name": "Деловой английский", "duration": "4 месяца", "price": 20000},
+    {"id": 3, "name": "Подготовка к TOEFL", "duration": "5 месяцев", "price": 25000}
+  ]
+
+[
+    {
+        "name": "Иван Иванов",
+        "email": "ivan@example.com",
+        "course_id": 1
+    },
+    {
+        "name": "Мария Петрова",
+        "email": "maria@example.com",
+        "course_id": 2
+    }
+  ]
